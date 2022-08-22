@@ -1,0 +1,3 @@
+# Flash-Cards
+This will help if you came across something and you'd like to jot that thing down.
+explore...
